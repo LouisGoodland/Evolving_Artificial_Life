@@ -1,0 +1,65 @@
+{
+    "My Behavior": {
+        "checkpoints": [
+            {
+                "steps": 8499941,
+                "file_path": "results\\FunnelAgent\\My Behavior\\My Behavior-8499941.onnx",
+                "reward": 82.77100583485195,
+                "creation_time": 1659500748.4680047,
+                "auxillary_file_paths": [
+                    "results\\FunnelAgent\\My Behavior\\My Behavior-8499941.pt"
+                ]
+            },
+            {
+                "steps": 8999999,
+                "file_path": "results\\FunnelAgent\\My Behavior\\My Behavior-8999999.onnx",
+                "reward": 81.95471992492676,
+                "creation_time": 1659501692.440583,
+                "auxillary_file_paths": [
+                    "results\\FunnelAgent\\My Behavior\\My Behavior-8999999.pt"
+                ]
+            },
+            {
+                "steps": 9499976,
+                "file_path": "results\\FunnelAgent\\My Behavior\\My Behavior-9499976.onnx",
+                "reward": 83.76724818132925,
+                "creation_time": 1659502629.6980596,
+                "auxillary_file_paths": [
+                    "results\\FunnelAgent\\My Behavior\\My Behavior-9499976.pt"
+                ]
+            },
+            {
+                "steps": 9999971,
+                "file_path": "results\\FunnelAgent\\My Behavior\\My Behavior-9999971.onnx",
+                "reward": 84.57378914572976,
+                "creation_time": 1659503576.561265,
+                "auxillary_file_paths": [
+                    "results\\FunnelAgent\\My Behavior\\My Behavior-9999971.pt"
+                ]
+            },
+            {
+                "steps": 10000037,
+                "file_path": "results\\FunnelAgent\\My Behavior\\My Behavior-10000037.onnx",
+                "reward": 84.58140005384173,
+                "creation_time": 1659503576.6742632,
+                "auxillary_file_paths": [
+                    "results\\FunnelAgent\\My Behavior\\My Behavior-10000037.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 10000037,
+            "file_path": "results\\FunnelAgent\\My Behavior.onnx",
+            "reward": 84.58140005384173,
+            "creation_time": 1659503576.6742632,
+            "auxillary_file_paths": [
+                "results\\FunnelAgent\\My Behavior\\My Behavior-10000037.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

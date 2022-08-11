@@ -1,0 +1,3 @@
+My behaviour.onnx (for example)
+example.bat (for running example)
+maps.json (for all the different maps that exist)

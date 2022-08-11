@@ -1,0 +1,47 @@
+{
+    "My Behavior": {
+        "checkpoints": [
+            {
+                "steps": 499895,
+                "file_path": "results\\EasyMapAgent1\\My Behavior\\My Behavior-499895.onnx",
+                "reward": 10.666666666666666,
+                "creation_time": 1659437486.6883066,
+                "auxillary_file_paths": [
+                    "results\\EasyMapAgent1\\My Behavior\\My Behavior-499895.pt"
+                ]
+            },
+            {
+                "steps": 999954,
+                "file_path": "results\\EasyMapAgent1\\My Behavior\\My Behavior-999954.onnx",
+                "reward": 10.9,
+                "creation_time": 1659438548.4140956,
+                "auxillary_file_paths": [
+                    "results\\EasyMapAgent1\\My Behavior\\My Behavior-999954.pt"
+                ]
+            },
+            {
+                "steps": 1000558,
+                "file_path": "results\\EasyMapAgent1\\My Behavior\\My Behavior-1000558.onnx",
+                "reward": 10.909090909090908,
+                "creation_time": 1659438548.6010911,
+                "auxillary_file_paths": [
+                    "results\\EasyMapAgent1\\My Behavior\\My Behavior-1000558.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1000558,
+            "file_path": "results\\EasyMapAgent1\\My Behavior.onnx",
+            "reward": 10.909090909090908,
+            "creation_time": 1659438548.6010911,
+            "auxillary_file_paths": [
+                "results\\EasyMapAgent1\\My Behavior\\My Behavior-1000558.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

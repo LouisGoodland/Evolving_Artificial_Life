@@ -1,0 +1,42 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1659622305",
+        "python_version": "3.8.3 (default, Jul  2 2020, 17:30:36) [MSC v.1916 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\Loudini\\anaconda3\\Scripts\\mlagents-learn F:\\Unity\\behaviour.yaml --run-id=CellEating --force",
+        "mlagents_version": "0.27.0",
+        "mlagents_envs_version": "0.27.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.7.1+cu110",
+        "numpy_version": "1.19.1",
+        "end_time_seconds": "1659622367"
+    },
+    "total": 62.23913039999999,
+    "count": 1,
+    "self": 0.00979529999999329,
+    "children": {
+        "run_training.setup": {
+            "total": 0.31047530000000023,
+            "count": 1,
+            "self": 0.31047530000000023
+        },
+        "TrainerController.start_learning": {
+            "total": 61.9188598,
+            "count": 1,
+            "self": 0.00019470000000154641,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 61.9186397,
+                    "count": 1,
+                    "self": 61.9186397
+                },
+                "TrainerController._save_models": {
+                    "total": 2.5399999998398926e-05,
+                    "count": 1,
+                    "self": 2.5399999998398926e-05
+                }
+            }
+        }
+    }
+}

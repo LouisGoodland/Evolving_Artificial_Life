@@ -1,0 +1,29 @@
+{
+    "My Behavior": {
+        "checkpoints": [
+            {
+                "steps": 940,
+                "file_path": "results\\EasyZigZagAgent1\\My Behavior\\My Behavior-940.onnx",
+                "reward": -0.9,
+                "creation_time": 1659479625.9684894,
+                "auxillary_file_paths": [
+                    "results\\EasyZigZagAgent1\\My Behavior\\My Behavior-940.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 940,
+            "file_path": "results\\EasyZigZagAgent1\\My Behavior.onnx",
+            "reward": -0.9,
+            "creation_time": 1659479625.9684894,
+            "auxillary_file_paths": [
+                "results\\EasyZigZagAgent1\\My Behavior\\My Behavior-940.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

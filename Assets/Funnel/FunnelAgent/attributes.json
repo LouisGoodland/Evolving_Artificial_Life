@@ -1,0 +1,5 @@
+wallReward,True,-10
+checkPointReward,True,10
+checkpointProximityReward,True,0,0
+LapRewardAmount,True,10
+LapTimeRewardAmount,True,100
